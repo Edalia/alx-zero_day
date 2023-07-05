@@ -1,2 +1,2 @@
 First readme
--test repository for ALXi
+-test repository for ALX
